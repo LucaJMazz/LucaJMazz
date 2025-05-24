@@ -17,9 +17,12 @@
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
+<br>
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve" />](https://www.blackmagicdesign.com/products/davinciresolve)
+<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/960px-DaVinci_Resolve_Studio.png" width="64" height="64" alt="Davinci Icon" />
+</a>
 
 
