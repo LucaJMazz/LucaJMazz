@@ -20,18 +20,18 @@
 <br>
 # 🖌️ Graphic Design
 <a href="https://www.blender.org/">
-  <img src="/assets/blender.png" alt="Blender" width="58" style="display: block;" />
+  <img src="/assets/blender.png" alt="Blender" width="54" style="display: block;" />
 </a>
 <a href="https://www.figma.com/">
-  <img src="/assets/figma.png" alt="Figma" width="58" style="display: block;" />
+  <img src="/assets/figma.png" alt="Figma" width="54" style="display: block;" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="/assets/ps.png" alt="Photoshop" width="58" style="display: block;" />
+  <img src="/assets/ps.png" alt="Photoshop" width="54" style="display: block;" />
 </a>
 <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve">
-  <img src="/assets/davinci-resolve.png" alt="DaVinci Resolve" width="58" style="display: block;" />
+  <img src="/assets/davinci-resolve.png" alt="DaVinci Resolve" width="54" style="display: block;" />
 </a>
 <a href="https://www.substance3d.com/products/substance-painter/">
-  <img src="/assets/substance.png" alt="Substance Painter" width="58" style="display: block;" />
+  <img src="/assets/substance.png" alt="Substance Painter" width="54" style="display: block;" />
 </a>
 
