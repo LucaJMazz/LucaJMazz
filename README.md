@@ -19,8 +19,19 @@
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
 <br>
 # 🖌️ Graphic Design
-[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-[![Davinci Resolve](/assets/davinci-resolve.png)](https://www.blackmagicdesign.com/ca/products/davinciresolve)
+<a href="https://www.blender.org/">
+  <img src="/assets/blender.png" alt="Blender" width="50" />
+</a>
+<a href="https://www.figma.com/">
+  <img src="/assets/figma.png" alt="Figma" width="50" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="/assets/ps.png" alt="Photoshop" width="50" />
+</a>
+<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve">
+  <img src="/assets/davinci-resolve.png" alt="DaVinci Resolve" width="50" />
+</a>
+<a href="https://www.substance3d.com/products/substance-painter/">
+  <img src="/assets/substance.png" alt="Substance Painter" width="50" />
+</a>
 
