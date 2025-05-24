@@ -20,6 +20,6 @@
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve" />](https://www.blackmagicdesign.com/products/davinciresolve)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve" />](https://www.blackmagicdesign.com/products/davinciresolve)
 
 
