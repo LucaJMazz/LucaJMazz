@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=blender" width="64" alt="Blender Icon" />
 </a>
 <a href="https://www.figma.com/">
-  <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Figma Icon" />
+  <img src="https://finevpn.org/wp-content/uploads/2024/02/figma-logo-logo.png" width="64" alt="Figma Icon" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://skillicons.dev/icons?i=ps" width="64" alt="Photoshop Icon" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" width="64" alt="Photoshop Icon" />
 </a>
 <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/960px-DaVinci_Resolve_Studio.png" width="64" alt="Davinci Icon" />
