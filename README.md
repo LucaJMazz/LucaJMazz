@@ -22,5 +22,5 @@
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-[![Davinci Resolve](/assets/davinci-resolve)](https://www.blackmagicdesign.com/ca/products/davinciresolve)
+[![Davinci Resolve](/assets/davinci-resolve.png)](https://www.blackmagicdesign.com/ca/products/davinciresolve)
 
