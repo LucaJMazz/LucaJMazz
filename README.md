@@ -19,19 +19,19 @@
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
 <br>
 # 🖌️ Graphic Design
-<a href="https://www.blender.org/" style="text-decoration: none;">
-  <img src="/assets/blender.png" alt="Blender" width="50" />
+<a href="https://www.blender.org/">
+  <img src="/assets/blender.png" alt="Blender" width="50" style="display: block;" />
 </a>
-<a href="https://www.figma.com/" style="text-decoration: none;">
-  <img src="/assets/figma.png" alt="Figma" width="50" />
+<a href="https://www.figma.com/">
+  <img src="/assets/figma.png" alt="Figma" width="50" style="display: block;" />
 </a>
-<a href="https://www.adobe.com/products/photoshop.html" style="text-decoration: none;">
-  <img src="/assets/ps.png" alt="Photoshop" width="50" />
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="/assets/ps.png" alt="Photoshop" width="50" style="display: block;" />
 </a>
-<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" style="text-decoration: none;">
-  <img src="/assets/davinci-resolve.png" alt="DaVinci Resolve" width="50" />
+<a href="https://www.blackmagicdesign.com/ca/products/davinciresolve">
+  <img src="/assets/davinci-resolve.png" alt="DaVinci Resolve" width="50" style="display: block;" />
 </a>
-<a href="https://www.substance3d.com/products/substance-painter/" style="text-decoration: none;">
-  <img src="/assets/substance.png" alt="Substance Painter" width="50" />
+<a href="https://www.substance3d.com/products/substance-painter/">
+  <img src="/assets/substance.png" alt="Substance Painter" width="50" style="display: block;" />
 </a>
 
