@@ -16,7 +16,6 @@
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
 <br>
 # 🖌️ Graphic Design
 <a href="https://www.blender.org/">
