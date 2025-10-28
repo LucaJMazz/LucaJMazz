@@ -1,7 +1,7 @@
 ## Hi, I'm Luca 🇨🇦
 
 - 🔭 I'm a Computer Science student at York University
-- 🎨 I'm an Artist and Graphic designer
+- 🎨 I'm a Programmer, Artist and Graphic designer
 - 📫 How to reach me: [Contact by Email](mailto:lucajmazz@gmail.com)
 
 ## 🌐 Socials:
