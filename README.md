@@ -12,10 +12,9 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
-[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C](https://skillicons.dev/icons?i=c)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 <br>
 # 🖌️ Graphic Design
 <a href="https://www.blender.org/">
